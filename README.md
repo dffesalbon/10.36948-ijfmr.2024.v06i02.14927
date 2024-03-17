@@ -1,7 +1,6 @@
 # Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks
 
-## International Journal for Multidisciplinary Research (IJFMR)
-## Volume 6, Issue 2, March-April 2024
+## International Journal for Multidisciplinary Research (IJFMR) Volume 6, Issue 2, March-April 2024
 
 Citation
 ```

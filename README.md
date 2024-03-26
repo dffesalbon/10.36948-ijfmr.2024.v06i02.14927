@@ -19,4 +19,23 @@ author={-, Daniel Fesalbon and -, Arvin De La Cruz and -, Marvin Mallari and -, 
 year={2024}, month=mar }
 ```
 
+arXiv
+```
+@ARTICLE{2024arXiv240315458F,
+       author = {{Fesalbon}, Daniel and {De La Cruz}, Arvin and {Mallari}, Marvin and {Rodelas}, Nelson},
+        title = "{Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Computation and Language, Computer Science - Machine Learning},
+         year = 2024,
+        month = mar,
+          eid = {arXiv:2403.15458},
+        pages = {arXiv:2403.15458},
+archivePrefix = {arXiv},
+       eprint = {2403.15458},
+ primaryClass = {cs.CL},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024arXiv240315458F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+
 DOI: https://doi.org/10.36948/ijfmr.2024.v06i02.14927

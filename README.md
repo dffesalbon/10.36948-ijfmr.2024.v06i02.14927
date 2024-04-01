@@ -38,4 +38,6 @@ archivePrefix = {arXiv},
 }
 ```
 
-DOI: https://doi.org/10.36948/ijfmr.2024.v06i02.14927
+DOIs: 
+ - https://doi.org/10.36948/ijfmr.2024.v06i02.14927
+ - https://doi.org/10.48550/arXiv.2403.15458
